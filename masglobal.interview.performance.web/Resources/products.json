@@ -1,0 +1,2502 @@
+[
+  {
+    "Id": "ed3a851e-5238-435d-a335-54d9097478aa",
+    "Name": "Lamiaceae",
+    "Price": "264.56"
+  },
+  {
+    "Id": "f3ce355d-63db-485b-b723-36e999cb494a",
+    "Name": "Apiaceae",
+    "Price": "148.05"
+  },
+  {
+    "Id": "e0792be0-37b0-411f-b3e6-e56bd23c2a42",
+    "Name": "Fabaceae",
+    "Price": "149.37"
+  },
+  {
+    "Id": "22d414ad-926e-4d4b-adfe-dc3f682d8ee9",
+    "Name": "Microcaliciaceae",
+    "Price": "361.96"
+  },
+  {
+    "Id": "2999349f-015e-4930-a1f0-a8a7da002df1",
+    "Name": "Polemoniaceae",
+    "Price": "283.71"
+  },
+  {
+    "Id": "c4f4edbc-a14c-4918-a7be-9b15c182fc8f",
+    "Name": "Fuscideaceae",
+    "Price": "67.35"
+  },
+  {
+    "Id": "5e80af51-177d-46f1-97bb-9c82f3a1335d",
+    "Name": "Scrophulariaceae",
+    "Price": "444.43"
+  },
+  {
+    "Id": "7a41f10e-898c-47b9-856a-f3fd1ff991b7",
+    "Name": "Nyctaginaceae",
+    "Price": "112.40"
+  },
+  {
+    "Id": "3166c23d-ea3c-47ff-a4c0-e3c3f41874df",
+    "Name": "Fabaceae",
+    "Price": "87.65"
+  },
+  {
+    "Id": "1540af35-7d0a-4d2c-bb72-0b7fe61cc582",
+    "Name": "Apiaceae",
+    "Price": "148.34"
+  },
+  {
+    "Id": "3fe8b489-4531-44de-b6d2-a40ce6d1ee37",
+    "Name": "Scrophulariaceae",
+    "Price": "463.78"
+  },
+  {
+    "Id": "057a8846-b090-4621-a795-6d4edebe1c2f",
+    "Name": "Capparaceae",
+    "Price": "25.22"
+  },
+  {
+    "Id": "ee21fa48-7868-4e86-b4ce-a1edd6a55102",
+    "Name": "Sphagnaceae",
+    "Price": "401.18"
+  },
+  {
+    "Id": "da6794d7-67e1-466c-aa7e-6c7044762f6f",
+    "Name": "Fabaceae",
+    "Price": "48.17"
+  },
+  {
+    "Id": "74115a3e-37bc-4792-9bbc-d54b490131ee",
+    "Name": "Trapeliaceae",
+    "Price": "488.59"
+  },
+  {
+    "Id": "4042fa25-85de-4f7a-af69-2cf283209f99",
+    "Name": "Verrucariaceae",
+    "Price": "120.12"
+  },
+  {
+    "Id": "36636e29-dd4b-4ee1-960e-d29c45113534",
+    "Name": "Ranunculaceae",
+    "Price": "375.17"
+  },
+  {
+    "Id": "d7d75c83-fb09-48c0-95e0-d9343e0a4885",
+    "Name": "Brassicaceae",
+    "Price": "518.46"
+  },
+  {
+    "Id": "c66ec915-9396-428e-bdc2-46ab8fd693dd",
+    "Name": "Parmeliaceae",
+    "Price": "533.81"
+  },
+  {
+    "Id": "df192408-4818-4883-9698-ff9871eebea4",
+    "Name": "Pteridaceae",
+    "Price": "107.40"
+  },
+  {
+    "Id": "8f759c90-f857-41cc-839f-828180aa3154",
+    "Name": "Parmeliaceae",
+    "Price": "555.70"
+  },
+  {
+    "Id": "a4ca9692-4aa4-43ed-b9d9-328e65a6c5cf",
+    "Name": "Scrophulariaceae",
+    "Price": "210.66"
+  },
+  {
+    "Id": "72b408e3-81df-4e8a-9284-f9a857d3fa3f",
+    "Name": "Melastomataceae",
+    "Price": "410.62"
+  },
+  {
+    "Id": "8eeb6460-47dc-41dd-8fa6-412b5ba730e9",
+    "Name": "Ericaceae",
+    "Price": "482.17"
+  },
+  {
+    "Id": "56a9711f-2bd1-440a-be63-06591fa81cf5",
+    "Name": "Brassicaceae",
+    "Price": "536.16"
+  },
+  {
+    "Id": "3cfe58c7-1168-425c-bd95-4edb35a56a20",
+    "Name": "Cyperaceae",
+    "Price": "85.82"
+  },
+  {
+    "Id": "2151480b-6a16-4a5c-92ba-83b1f192d58c",
+    "Name": "Rosaceae",
+    "Price": "63.23"
+  },
+  {
+    "Id": "f4734fe5-acfa-4ea5-b1fb-19efc8590821",
+    "Name": "Poaceae",
+    "Price": "358.46"
+  },
+  {
+    "Id": "c4678bd9-d378-4457-adbe-12f05635b90e",
+    "Name": "Rubiaceae",
+    "Price": "494.66"
+  },
+  {
+    "Id": "263c1ba3-5c17-401e-a271-4daf4a7abdf9",
+    "Name": "Convolvulaceae",
+    "Price": "146.18"
+  },
+  {
+    "Id": "010af7b6-f91a-46bb-8fd6-7e434d6b1363",
+    "Name": "Asteraceae",
+    "Price": "504.33"
+  },
+  {
+    "Id": "03fc8350-31ff-425d-83be-7c89d50599b5",
+    "Name": "Hydrophyllaceae",
+    "Price": "5.56"
+  },
+  {
+    "Id": "c5636453-e209-4a2e-8965-697db70e7811",
+    "Name": "Cyperaceae",
+    "Price": "565.84"
+  },
+  {
+    "Id": "8f45ec03-06a5-41e9-b93e-3082eb45d999",
+    "Name": "Ophioglossaceae",
+    "Price": "352.90"
+  },
+  {
+    "Id": "22cb3c88-4e7c-4282-b9b9-8282ce7305c1",
+    "Name": "Liliaceae",
+    "Price": "164.00"
+  },
+  {
+    "Id": "56e60c60-f774-441a-878d-2e0b39237f0e",
+    "Name": "Chrysotrichaceae",
+    "Price": "516.01"
+  },
+  {
+    "Id": "4fb8e1f1-abc9-4f09-98c0-0b0d217920b0",
+    "Name": "Fabaceae",
+    "Price": "288.76"
+  },
+  {
+    "Id": "32727eb3-91ac-4d71-bd34-651d61102731",
+    "Name": "Fabaceae",
+    "Price": "582.36"
+  },
+  {
+    "Id": "ee1cc08f-7d19-49cc-8b9e-d04b459d9a81",
+    "Name": "Scrophulariaceae",
+    "Price": "152.61"
+  },
+  {
+    "Id": "4c5ccfa5-d695-4661-b80c-c9b333b1f66a",
+    "Name": "Poaceae",
+    "Price": "134.48"
+  },
+  {
+    "Id": "ea91153a-cd32-4924-b48a-c9eb3ab2f23c",
+    "Name": "Asteraceae",
+    "Price": "595.50"
+  },
+  {
+    "Id": "ff1403c4-cc4c-4231-8a58-45f5e54ec76e",
+    "Name": "Araliaceae",
+    "Price": "92.89"
+  },
+  {
+    "Id": "ce03ab27-3e0c-4af7-b847-85c7882e1808",
+    "Name": "Verrucariaceae",
+    "Price": "151.54"
+  },
+  {
+    "Id": "0adb4a4f-e600-4972-981b-1d2ab70540d0",
+    "Name": "Brassicaceae",
+    "Price": "205.35"
+  },
+  {
+    "Id": "01966966-6e37-4187-a73c-aac8bd90b0c4",
+    "Name": "Aristolochiaceae",
+    "Price": "187.67"
+  },
+  {
+    "Id": "2f3c783a-050b-4b55-b903-fbd653958d52",
+    "Name": "Fabaceae",
+    "Price": "592.71"
+  },
+  {
+    "Id": "3dc841a3-dff5-490b-9529-480f369e64d4",
+    "Name": "Caryophyllaceae",
+    "Price": "440.57"
+  },
+  {
+    "Id": "7d85d1b5-f8e4-47d4-af7f-6856457923fa",
+    "Name": "Euphorbiaceae",
+    "Price": "397.94"
+  },
+  {
+    "Id": "09d82349-8ec4-48a2-9a44-9f02ef75eedd",
+    "Name": "Papaveraceae",
+    "Price": "409.07"
+  },
+  {
+    "Id": "97502ff2-7624-4551-98fb-2e3b8991c56a",
+    "Name": "Violaceae",
+    "Price": "439.30"
+  },
+  {
+    "Id": "4ff78942-ba05-45ec-beb2-b8b4957457b6",
+    "Name": "Poaceae",
+    "Price": "178.84"
+  },
+  {
+    "Id": "10d9c36a-06e1-4712-bcef-37ca7501a69b",
+    "Name": "Cyperaceae",
+    "Price": "168.63"
+  },
+  {
+    "Id": "358ff347-0024-475d-8a9d-a725e3bcdc12",
+    "Name": "Liliaceae",
+    "Price": "273.16"
+  },
+  {
+    "Id": "3c79b95d-2326-4e7e-93ae-ed7f7d101524",
+    "Name": "Brassicaceae",
+    "Price": "426.11"
+  },
+  {
+    "Id": "db0ff888-2397-4c32-81db-d6a9b9bffd11",
+    "Name": "Ericaceae",
+    "Price": "402.59"
+  },
+  {
+    "Id": "003ee1b1-262c-42db-b932-32f88615612f",
+    "Name": "Cactaceae",
+    "Price": "271.59"
+  },
+  {
+    "Id": "3de18a78-e7e3-490a-82a9-cf3b55ff228b",
+    "Name": "Ditrichaceae",
+    "Price": "414.88"
+  },
+  {
+    "Id": "8dc8310c-e46c-4a79-b073-4a1ea5a029b5",
+    "Name": "Grossulariaceae",
+    "Price": "450.43"
+  },
+  {
+    "Id": "06328150-d20b-4a0f-a88a-5083df65167f",
+    "Name": "Rosaceae",
+    "Price": "60.71"
+  },
+  {
+    "Id": "6b542e08-753d-41bc-96cc-6e4428866f17",
+    "Name": "Monotropaceae",
+    "Price": "402.22"
+  },
+  {
+    "Id": "0977c05d-6459-48d5-b84b-40e433578460",
+    "Name": "Asteraceae",
+    "Price": "20.81"
+  },
+  {
+    "Id": "773af697-5323-40ab-b366-c7a801a3df70",
+    "Name": "Lamiaceae",
+    "Price": "138.81"
+  },
+  {
+    "Id": "028a5a99-bd97-4f11-a19e-3e6495111c80",
+    "Name": "Orchidaceae",
+    "Price": "585.69"
+  },
+  {
+    "Id": "cdfadcc8-8949-4136-8688-7b78b8fb62e7",
+    "Name": "Scrophulariaceae",
+    "Price": "71.14"
+  },
+  {
+    "Id": "bad0a312-3895-4332-8455-e1e9c2371669",
+    "Name": "Asteraceae",
+    "Price": "67.36"
+  },
+  {
+    "Id": "5eb9e236-5802-4103-adc8-5c574f0e705a",
+    "Name": "Brigantiaceae",
+    "Price": "123.71"
+  },
+  {
+    "Id": "162bca92-4168-4914-a237-b0f02937e9af",
+    "Name": "Polypodiaceae",
+    "Price": "154.43"
+  },
+  {
+    "Id": "f68e33c9-d4ee-4905-90d6-5a297a8c329f",
+    "Name": "Scrophulariaceae",
+    "Price": "49.51"
+  },
+  {
+    "Id": "612cc090-331a-4de6-8be9-8c9818943637",
+    "Name": "Liliaceae",
+    "Price": "106.54"
+  },
+  {
+    "Id": "a37dfc27-951e-4f66-b6cb-9cafd9abd67a",
+    "Name": "Fabaceae",
+    "Price": "382.40"
+  },
+  {
+    "Id": "988e2a6f-0dcf-46ff-8158-ca24048b324b",
+    "Name": "Gesneriaceae",
+    "Price": "147.06"
+  },
+  {
+    "Id": "8f34fcdb-aced-459f-b3d9-423f8f5809ed",
+    "Name": "Commelinaceae",
+    "Price": "19.05"
+  },
+  {
+    "Id": "8f4c1d2b-241a-4311-83e7-b050177f2cf7",
+    "Name": "Asclepiadaceae",
+    "Price": "307.40"
+  },
+  {
+    "Id": "313bf473-198a-41c8-bd0b-121b309e11c7",
+    "Name": "Polytrichaceae",
+    "Price": "573.36"
+  },
+  {
+    "Id": "df192ade-e330-4198-850e-3b0b24832521",
+    "Name": "Rosaceae",
+    "Price": "385.32"
+  },
+  {
+    "Id": "84c551bf-3b99-4088-9cd5-49c8f25eb639",
+    "Name": "Hymeneliaceae",
+    "Price": "107.18"
+  },
+  {
+    "Id": "1ce7319e-cc4b-4c43-b348-249c8208bd42",
+    "Name": "Asclepiadaceae",
+    "Price": "184.48"
+  },
+  {
+    "Id": "95d2e76f-76e6-4f1f-98c8-60b45cddfdc0",
+    "Name": "Aristolochiaceae",
+    "Price": "573.91"
+  },
+  {
+    "Id": "ad4ee6b1-6797-4f7d-9d4f-c4423ff3c376",
+    "Name": "Eriocaulaceae",
+    "Price": "469.53"
+  },
+  {
+    "Id": "557c3647-4d91-410f-bb5c-2d1fb6f3d784",
+    "Name": "Meliaceae",
+    "Price": "300.02"
+  },
+  {
+    "Id": "04a49537-fea2-4bcc-8a04-5064b9b46c80",
+    "Name": "Fissidentaceae",
+    "Price": "477.25"
+  },
+  {
+    "Id": "51e2ec35-facd-4836-b2f7-e306c68db55f",
+    "Name": "Fabaceae",
+    "Price": "290.67"
+  },
+  {
+    "Id": "05f0e0db-3dd3-4cd5-86cd-96560f57399e",
+    "Name": "Saxifragaceae",
+    "Price": "102.04"
+  },
+  {
+    "Id": "b5f9aba4-2b5d-48af-92a6-eef92fb2a611",
+    "Name": "Fagaceae",
+    "Price": "7.31"
+  },
+  {
+    "Id": "4f1c3cfb-1430-4dd4-83af-6ed45f83de33",
+    "Name": "Boraginaceae",
+    "Price": "527.15"
+  },
+  {
+    "Id": "84feb83a-028c-4ff4-af76-ddfafdf874aa",
+    "Name": "Asteraceae",
+    "Price": "171.94"
+  },
+  {
+    "Id": "1bda6601-f249-4d29-82c1-600a2a3346d6",
+    "Name": "Grossulariaceae",
+    "Price": "178.97"
+  },
+  {
+    "Id": "ba311048-27c4-4f74-bbc7-2480ba93f0d6",
+    "Name": "Verbenaceae",
+    "Price": "466.23"
+  },
+  {
+    "Id": "e195e573-697b-45d6-afaf-e94888f430d5",
+    "Name": "Brassicaceae",
+    "Price": "108.82"
+  },
+  {
+    "Id": "d5d61c74-3c58-4250-b1ad-bd8b0266b891",
+    "Name": "Melastomataceae",
+    "Price": "343.51"
+  },
+  {
+    "Id": "4cdd8ccf-040f-4f01-ae91-fbe46a0edbf3",
+    "Name": "Polygonaceae",
+    "Price": "43.14"
+  },
+  {
+    "Id": "fa72f6f5-7a04-465b-85c8-69affd598e4f",
+    "Name": "Brassicaceae",
+    "Price": "276.73"
+  },
+  {
+    "Id": "27c84103-fe2b-4c81-b7b0-6cd897ebec99",
+    "Name": "Asteraceae",
+    "Price": "487.33"
+  },
+  {
+    "Id": "b9c707be-0c05-4b1b-8031-e062f1af8ac4",
+    "Name": "Brassicaceae",
+    "Price": "567.22"
+  },
+  {
+    "Id": "6014e696-9630-4091-9edf-369e86fe8f2f",
+    "Name": "Fabaceae",
+    "Price": "76.66"
+  },
+  {
+    "Id": "6ece7583-1c94-4039-854e-3c7db4a46ac7",
+    "Name": "Funariaceae",
+    "Price": "194.47"
+  },
+  {
+    "Id": "236a665e-cf2f-4344-82dd-fd89b27f03c2",
+    "Name": "Hymeneliaceae",
+    "Price": "63.60"
+  },
+  {
+    "Id": "cbbfdc1e-e16d-4a78-9748-f7fd822e8a78",
+    "Name": "Fabaceae",
+    "Price": "483.94"
+  },
+  {
+    "Id": "f2ba286a-c25d-42d3-a670-0c1c26f60aea",
+    "Name": "Dryopteridaceae",
+    "Price": "157.43"
+  },
+  {
+    "Id": "b96ceb3c-49ea-4cc5-834d-3f5de1f490c2",
+    "Name": "Collemataceae",
+    "Price": "173.99"
+  },
+  {
+    "Id": "15fb0a33-0472-4dff-b61a-fd1092f29639",
+    "Name": "Fabaceae",
+    "Price": "68.12"
+  },
+  {
+    "Id": "322dc838-27dc-420d-a9f5-3f27b5fe2bc9",
+    "Name": "Arthoniaceae",
+    "Price": "572.28"
+  },
+  {
+    "Id": "bf069da8-c2e5-428d-bf67-0bd13b065ad9",
+    "Name": "Lythraceae",
+    "Price": "536.23"
+  },
+  {
+    "Id": "fa910b2f-ea93-4848-9cde-b6a11d0d2c18",
+    "Name": "Salicaceae",
+    "Price": "92.03"
+  },
+  {
+    "Id": "ad7229f9-7403-4e98-b49a-100da6af3120",
+    "Name": "Onagraceae",
+    "Price": "124.60"
+  },
+  {
+    "Id": "9deb3b34-0f53-4e33-8a99-a0eabf5c5bed",
+    "Name": "Caryocaraceae",
+    "Price": "354.14"
+  },
+  {
+    "Id": "197a4192-7093-4cfb-a678-16b85eeb3be8",
+    "Name": "Hydrangeaceae",
+    "Price": "151.78"
+  },
+  {
+    "Id": "2d8b5f50-f83b-433d-8943-5478cf76eb27",
+    "Name": "Berberidaceae",
+    "Price": "101.13"
+  },
+  {
+    "Id": "b13aeafd-f8c6-45aa-83ef-7dc2487f6848",
+    "Name": "Resedaceae",
+    "Price": "529.64"
+  },
+  {
+    "Id": "c7784e51-1bb5-41f6-b7e1-ca89c973a381",
+    "Name": "Acanthaceae",
+    "Price": "484.91"
+  },
+  {
+    "Id": "cddf3970-aa53-4aad-9b01-709d4636b73f",
+    "Name": "Brassicaceae",
+    "Price": "35.91"
+  },
+  {
+    "Id": "ee30c37f-9591-4a15-80a2-832bc63da9a7",
+    "Name": "Fabaceae",
+    "Price": "66.41"
+  },
+  {
+    "Id": "2b7b1040-af5c-41ec-b225-4e3e969b44a8",
+    "Name": "Gentianaceae",
+    "Price": "476.27"
+  },
+  {
+    "Id": "65c735ec-6cc7-48b3-b3ca-491b51556db9",
+    "Name": "Cistaceae",
+    "Price": "204.95"
+  },
+  {
+    "Id": "f0c4fb6f-b658-4839-9108-a1cef542baa6",
+    "Name": "Dryopteridaceae",
+    "Price": "562.76"
+  },
+  {
+    "Id": "6fee273d-fc2e-4a52-903e-825f7651a5fe",
+    "Name": "Arecaceae",
+    "Price": "418.79"
+  },
+  {
+    "Id": "9e1579ae-17ce-4aff-8798-ad0f395dadf9",
+    "Name": "Smilacaceae",
+    "Price": "147.45"
+  },
+  {
+    "Id": "142d6809-9c56-494d-8e0e-f3fb210df1b0",
+    "Name": "Brassicaceae",
+    "Price": "182.29"
+  },
+  {
+    "Id": "2fa8c05f-300c-4032-87fd-a27e51f4a4b1",
+    "Name": "Campanulaceae",
+    "Price": "396.76"
+  },
+  {
+    "Id": "4afc4306-967d-4178-8c84-627beb2ac13d",
+    "Name": "Rosaceae",
+    "Price": "493.41"
+  },
+  {
+    "Id": "fb767f87-965e-4b04-b541-7d462e8754a3",
+    "Name": "Cyperaceae",
+    "Price": "418.03"
+  },
+  {
+    "Id": "92f41d74-31a2-49b0-9e9d-9d19fe0389e6",
+    "Name": "Saxifragaceae",
+    "Price": "229.99"
+  },
+  {
+    "Id": "f0c84a84-d871-4c0f-88ec-b2bd33d0c6b9",
+    "Name": "Fabaceae",
+    "Price": "346.20"
+  },
+  {
+    "Id": "b6d6b2dd-9f29-4724-a840-65e08b993ee6",
+    "Name": "Taxaceae",
+    "Price": "85.99"
+  },
+  {
+    "Id": "7a3e462f-3501-4a10-9109-755221d3bad6",
+    "Name": "Hymenophyllaceae",
+    "Price": "536.14"
+  },
+  {
+    "Id": "9bd50e17-d183-45f0-a15e-ea6cf9d6cd7a",
+    "Name": "Asteraceae",
+    "Price": "589.77"
+  },
+  {
+    "Id": "0836d84f-77e5-49e3-9599-4efd3b1f10b8",
+    "Name": "Liliaceae",
+    "Price": "487.37"
+  },
+  {
+    "Id": "1c89a4d3-cb58-4e9c-8450-8119bc62763f",
+    "Name": "Asclepiadaceae",
+    "Price": "260.06"
+  },
+  {
+    "Id": "b2ff7546-02ca-455c-9622-b471c169347a",
+    "Name": "Passifloraceae",
+    "Price": "554.04"
+  },
+  {
+    "Id": "6b0adc5f-c770-4033-a2a1-50b6c9d140be",
+    "Name": "Mycocaliciaceae",
+    "Price": "536.02"
+  },
+  {
+    "Id": "3f17ec54-1a9c-4f95-8957-887c0a9610af",
+    "Name": "Plantaginaceae",
+    "Price": "436.48"
+  },
+  {
+    "Id": "04e634f9-1122-46f1-8f5f-da30f73a6495",
+    "Name": "Cupressaceae",
+    "Price": "250.52"
+  },
+  {
+    "Id": "e25537d6-8ffa-4fef-9a02-c55a4f972250",
+    "Name": "Polemoniaceae",
+    "Price": "564.07"
+  },
+  {
+    "Id": "cbbe4bbd-98fd-4bf5-928e-c6e0ee9a7260",
+    "Name": "Ericaceae",
+    "Price": "487.07"
+  },
+  {
+    "Id": "d55f1157-1744-4606-a11c-de31461621a7",
+    "Name": "Polygonaceae",
+    "Price": "312.99"
+  },
+  {
+    "Id": "bc09b243-590c-4da1-adf5-306c948bb0e0",
+    "Name": "Parmeliaceae",
+    "Price": "386.51"
+  },
+  {
+    "Id": "e4cd8a69-66fe-43f1-aea5-1e7e89196053",
+    "Name": "Ranunculaceae",
+    "Price": "27.35"
+  },
+  {
+    "Id": "a0546315-995f-4dfa-9aec-dc8745f5e265",
+    "Name": "Loasaceae",
+    "Price": "38.05"
+  },
+  {
+    "Id": "292c730f-0d31-46f9-892f-49bd5730a177",
+    "Name": "Verbenaceae",
+    "Price": "220.74"
+  },
+  {
+    "Id": "fa8e1186-1ec6-4559-aa7b-8f14b645f09f",
+    "Name": "Pteridaceae",
+    "Price": "54.26"
+  },
+  {
+    "Id": "f945441b-ceb6-45d8-a3b9-b4a002d34963",
+    "Name": "Cyperaceae",
+    "Price": "303.58"
+  },
+  {
+    "Id": "7fe8509b-19bb-4429-99f6-3dd9d483a5e0",
+    "Name": "Apiaceae",
+    "Price": "34.31"
+  },
+  {
+    "Id": "73fb4c94-904e-4823-a528-65801b534ff6",
+    "Name": "Fagaceae",
+    "Price": "87.74"
+  },
+  {
+    "Id": "5b5c6b30-d6bc-4f2d-9650-37909435af4e",
+    "Name": "Brassicaceae",
+    "Price": "502.68"
+  },
+  {
+    "Id": "a8267726-bc59-4ddf-9750-b5855d1576a1",
+    "Name": "Teloschistaceae",
+    "Price": "491.40"
+  },
+  {
+    "Id": "37653e23-6db6-49eb-81ed-af3131388744",
+    "Name": "Nyctaginaceae",
+    "Price": "307.14"
+  },
+  {
+    "Id": "0f796dec-398e-4635-b2d9-d599c59b3d75",
+    "Name": "Onagraceae",
+    "Price": "174.78"
+  },
+  {
+    "Id": "959b1bf4-bf49-412f-9d60-89363cb71df1",
+    "Name": "Lecideaceae",
+    "Price": "513.78"
+  },
+  {
+    "Id": "5f83fcb5-80f7-4d81-ba76-a991f54cd2d7",
+    "Name": "Caryophyllaceae",
+    "Price": "103.60"
+  },
+  {
+    "Id": "7c8f6c07-9ecd-465b-ad85-56babe0e4402",
+    "Name": "Liliaceae",
+    "Price": "335.32"
+  },
+  {
+    "Id": "36fad514-e299-424a-89ab-669f0153757f",
+    "Name": "Asteraceae",
+    "Price": "426.91"
+  },
+  {
+    "Id": "b95c0da7-e33b-4793-b2b9-54a5b2572397",
+    "Name": "Cyperaceae",
+    "Price": "555.98"
+  },
+  {
+    "Id": "6bb23216-b35f-41b1-a3a7-10dffa5657ac",
+    "Name": "Fontinalaceae",
+    "Price": "342.27"
+  },
+  {
+    "Id": "c6f9711a-3e65-49cf-943b-7148af3338fe",
+    "Name": "Asteraceae",
+    "Price": "123.11"
+  },
+  {
+    "Id": "9e290a28-a203-4ec7-a21c-275c839327e0",
+    "Name": "Brassicaceae",
+    "Price": "259.84"
+  },
+  {
+    "Id": "02f84a94-42c3-4335-a7b3-6f841ede4b43",
+    "Name": "Malvaceae",
+    "Price": "102.90"
+  },
+  {
+    "Id": "78f7d689-ec69-456e-9d84-9e7824cfa779",
+    "Name": "Ranunculaceae",
+    "Price": "75.16"
+  },
+  {
+    "Id": "c15fa89b-adbb-42be-b648-cd3e87016a5b",
+    "Name": "Acanthaceae",
+    "Price": "478.45"
+  },
+  {
+    "Id": "f04abf67-401d-4a64-ba9b-a31592b6cd69",
+    "Name": "Euphorbiaceae",
+    "Price": "2.75"
+  },
+  {
+    "Id": "8a2c0b47-4f18-478d-a97e-d6298f138d7d",
+    "Name": "Poaceae",
+    "Price": "468.49"
+  },
+  {
+    "Id": "5645b4ac-534c-43a7-854e-5e1ff970dd63",
+    "Name": "Rhamnaceae",
+    "Price": "352.88"
+  },
+  {
+    "Id": "966a2bc2-eb85-4e98-895d-809a7b5c5ac0",
+    "Name": "Rosaceae",
+    "Price": "496.13"
+  },
+  {
+    "Id": "0f62a973-988b-4d03-9fdc-26e3d8f98211",
+    "Name": "Fabaceae",
+    "Price": "47.41"
+  },
+  {
+    "Id": "0e275385-01fb-4a34-8345-5df27f62061a",
+    "Name": "Cyperaceae",
+    "Price": "357.78"
+  },
+  {
+    "Id": "c0fa18c8-29f9-4390-b1fe-628f61abef38",
+    "Name": "Droseraceae",
+    "Price": "119.51"
+  },
+  {
+    "Id": "eb156d9b-43fb-4e0e-aabe-09329e55fb41",
+    "Name": "Arecaceae",
+    "Price": "127.87"
+  },
+  {
+    "Id": "f0f5817e-2a6f-4ba8-810f-68828b0b9dfd",
+    "Name": "Brassicaceae",
+    "Price": "457.95"
+  },
+  {
+    "Id": "dde5bb1f-9d29-44c8-8c63-04e660fa5978",
+    "Name": "Polygonaceae",
+    "Price": "101.50"
+  },
+  {
+    "Id": "d5613ef3-d63b-478c-a479-ce798185bef5",
+    "Name": "Ophioglossaceae",
+    "Price": "155.61"
+  },
+  {
+    "Id": "0d7ddd83-d6dd-45a0-bc88-973ca0c78acf",
+    "Name": "Salicaceae",
+    "Price": "105.93"
+  },
+  {
+    "Id": "b3fc4da9-d121-4123-a9b6-616bb26cb762",
+    "Name": "Apiaceae",
+    "Price": "529.07"
+  },
+  {
+    "Id": "abd54cda-53f7-4159-bcb6-0e8ad7421116",
+    "Name": "Bignoniaceae",
+    "Price": "412.11"
+  },
+  {
+    "Id": "f8b46680-d6b9-41de-963a-8f7e41c8af4b",
+    "Name": "Piperaceae",
+    "Price": "197.79"
+  },
+  {
+    "Id": "ebf6a8bc-7e69-4f7f-85eb-20063f3375ac",
+    "Name": "Sapotaceae",
+    "Price": "269.82"
+  },
+  {
+    "Id": "d94bb754-cfc0-4b55-9d6a-168d34da5b91",
+    "Name": "Brassicaceae",
+    "Price": "426.60"
+  },
+  {
+    "Id": "54fdadc2-b123-4c7d-a4cc-c82c67cda45f",
+    "Name": "Scrophulariaceae",
+    "Price": "503.15"
+  },
+  {
+    "Id": "58411a13-cc6e-4572-9117-b98a0fa0e042",
+    "Name": "Rosaceae",
+    "Price": "67.79"
+  },
+  {
+    "Id": "8e41cd77-34e3-4355-a659-f5726a1b3540",
+    "Name": "Linaceae",
+    "Price": "565.46"
+  },
+  {
+    "Id": "fd404ea9-e5c2-475f-a59c-51722138e650",
+    "Name": "Melastomataceae",
+    "Price": "153.30"
+  },
+  {
+    "Id": "a94631a4-c037-4a86-8555-f8bdcbbc357b",
+    "Name": "Opegraphaceae",
+    "Price": "192.97"
+  },
+  {
+    "Id": "7f2bdf01-4a91-46a2-8d6e-614fdd9dc5dc",
+    "Name": "Lycopodiaceae",
+    "Price": "482.73"
+  },
+  {
+    "Id": "2b2ece69-2293-4d69-8503-70416b945a61",
+    "Name": "Polygonaceae",
+    "Price": "492.24"
+  },
+  {
+    "Id": "522f38b8-e8b4-4a73-8498-91434ebc1435",
+    "Name": "Orchidaceae",
+    "Price": "380.96"
+  },
+  {
+    "Id": "12be5ba0-9372-4d76-b840-9884fe1f30c0",
+    "Name": "Fabaceae",
+    "Price": "74.09"
+  },
+  {
+    "Id": "83dc6329-1b35-455f-8c28-027e82abd38f",
+    "Name": "Apiaceae",
+    "Price": "97.75"
+  },
+  {
+    "Id": "b00ab681-238e-4857-b17c-ea3830091f62",
+    "Name": "Asteraceae",
+    "Price": "275.44"
+  },
+  {
+    "Id": "d44b17a6-c73b-481f-9116-d7899e61e842",
+    "Name": "Asteraceae",
+    "Price": "572.02"
+  },
+  {
+    "Id": "fb088f30-ef92-44e2-bc8d-c88875fe06b2",
+    "Name": "Ericaceae",
+    "Price": "220.67"
+  },
+  {
+    "Id": "10c97ef7-492f-4148-8134-6da97e992cb6",
+    "Name": "Parmeliaceae",
+    "Price": "210.57"
+  },
+  {
+    "Id": "46b9457c-6f7b-4102-8cee-563b1e3ab308",
+    "Name": "Asteraceae",
+    "Price": "217.07"
+  },
+  {
+    "Id": "aeb73e09-4079-490e-a15f-3743b18c0cef",
+    "Name": "Poaceae",
+    "Price": "61.97"
+  },
+  {
+    "Id": "b8d20415-daeb-4172-903f-8af348732b17",
+    "Name": "Pottiaceae",
+    "Price": "497.17"
+  },
+  {
+    "Id": "0d98bfb8-898d-42e0-988a-5fa61cc4df50",
+    "Name": "Amblystegiaceae",
+    "Price": "72.34"
+  },
+  {
+    "Id": "e440ed1f-1aed-4f04-9f11-8ab2b58fff44",
+    "Name": "Apiaceae",
+    "Price": "141.74"
+  },
+  {
+    "Id": "4112cbaf-5cbf-44dc-b378-82de260b946a",
+    "Name": "Euphorbiaceae",
+    "Price": "513.75"
+  },
+  {
+    "Id": "0379cd42-3f68-455d-9177-e0532155e4d7",
+    "Name": "Ectolechiaceae",
+    "Price": "230.57"
+  },
+  {
+    "Id": "6fc4e60f-d47e-4079-9194-d068670f6223",
+    "Name": "Fabaceae",
+    "Price": "127.32"
+  },
+  {
+    "Id": "f7edbee8-eecf-473c-9ca6-dec10f11da1f",
+    "Name": "Apocynaceae",
+    "Price": "190.56"
+  },
+  {
+    "Id": "f30fe13c-70d7-4110-a9a1-96b35541bd18",
+    "Name": "Fabaceae",
+    "Price": "538.63"
+  },
+  {
+    "Id": "74f64c6c-bf1f-4717-b416-3dc995856a8c",
+    "Name": "Polemoniaceae",
+    "Price": "116.02"
+  },
+  {
+    "Id": "147d0318-59ed-4c30-b219-79685f003727",
+    "Name": "Brassicaceae",
+    "Price": "463.09"
+  },
+  {
+    "Id": "7bd80707-f086-4fa5-a701-0e95943a123e",
+    "Name": "Scrophulariaceae",
+    "Price": "554.06"
+  },
+  {
+    "Id": "e494ceb3-aac4-47f3-a30e-5eed98f4a0f4",
+    "Name": "Betulaceae",
+    "Price": "308.08"
+  },
+  {
+    "Id": "b3fdc4a5-7d4e-4e45-9fc5-23d6a1b55d0e",
+    "Name": "Poaceae",
+    "Price": "386.16"
+  },
+  {
+    "Id": "501f0e0f-3c55-4f3b-9508-e8cb8939278d",
+    "Name": "Potamogetonaceae",
+    "Price": "377.90"
+  },
+  {
+    "Id": "574c255e-421e-447e-9f9f-90a124cf1a33",
+    "Name": "Crassulaceae",
+    "Price": "25.81"
+  },
+  {
+    "Id": "29c3faf2-8241-4dbc-821d-62bb8dae6119",
+    "Name": "Polemoniaceae",
+    "Price": "481.93"
+  },
+  {
+    "Id": "6d1bae30-ad45-4452-93cb-99f4aedc2444",
+    "Name": "Lentibulariaceae",
+    "Price": "150.54"
+  },
+  {
+    "Id": "8ad967bd-1c89-4c36-9362-7e8ecdde7f19",
+    "Name": "Asteraceae",
+    "Price": "336.06"
+  },
+  {
+    "Id": "0c31438a-08dd-4c28-ad6e-7641091f9192",
+    "Name": "Equisetaceae",
+    "Price": "201.41"
+  },
+  {
+    "Id": "8026dc7a-86cc-4273-8f68-a63f95f65681",
+    "Name": "Lamiaceae",
+    "Price": "470.16"
+  },
+  {
+    "Id": "b96d82ac-5aa2-4624-a83b-c4fe0025544b",
+    "Name": "Poaceae",
+    "Price": "406.20"
+  },
+  {
+    "Id": "fa94f475-fe2f-444f-a4d6-fb02935cfdbc",
+    "Name": "Acanthaceae",
+    "Price": "591.36"
+  },
+  {
+    "Id": "1b64278a-bc83-4084-a4cc-f8ab252f5ff2",
+    "Name": "Salicaceae",
+    "Price": "150.28"
+  },
+  {
+    "Id": "334ec99c-26ce-47c1-a558-9a216efb7f32",
+    "Name": "Scrophulariaceae",
+    "Price": "416.84"
+  },
+  {
+    "Id": "ac88f17f-2974-4e30-bccd-cf542ab8201a",
+    "Name": "Annonaceae",
+    "Price": "144.32"
+  },
+  {
+    "Id": "03b1543b-e4a1-4b12-9809-8018885ec9e7",
+    "Name": "Rosaceae",
+    "Price": "83.74"
+  },
+  {
+    "Id": "4f51aa49-36c8-40e8-83db-569c2727c493",
+    "Name": "Asteraceae",
+    "Price": "525.48"
+  },
+  {
+    "Id": "bb14bb26-d22a-4417-99be-b465914d159e",
+    "Name": "Dryopteridaceae",
+    "Price": "277.31"
+  },
+  {
+    "Id": "9a00df2e-1fa8-40eb-8f2c-e925989b624f",
+    "Name": "Gesneriaceae",
+    "Price": "511.25"
+  },
+  {
+    "Id": "8bcbe660-1517-40f0-a3dd-1b36199e050a",
+    "Name": "Rutaceae",
+    "Price": "584.43"
+  },
+  {
+    "Id": "634e709e-e467-465b-bc5b-f76ff9c12270",
+    "Name": "Rhizocarpaceae",
+    "Price": "161.93"
+  },
+  {
+    "Id": "1f85e172-fc91-4b8e-9cae-ff0bd43d4f90",
+    "Name": "Malvaceae",
+    "Price": "217.45"
+  },
+  {
+    "Id": "42e9408d-65c1-4d01-8f3d-ccce08b8cba4",
+    "Name": "Asteraceae",
+    "Price": "368.68"
+  },
+  {
+    "Id": "2f6505c5-e563-4a1a-8249-f235d521b73f",
+    "Name": "Sapindaceae",
+    "Price": "408.67"
+  },
+  {
+    "Id": "b1363c6f-f618-4ef5-a65d-bf69e45ea869",
+    "Name": "Polemoniaceae",
+    "Price": "385.71"
+  },
+  {
+    "Id": "78db7dc9-e095-494b-ab95-2a2d523f1007",
+    "Name": "Dryopteridaceae",
+    "Price": "305.12"
+  },
+  {
+    "Id": "1d666054-210f-4cad-9852-e224cd6ffa36",
+    "Name": "Asteraceae",
+    "Price": "254.88"
+  },
+  {
+    "Id": "c79c9db5-ed31-4c2b-8000-bade6be17102",
+    "Name": "Asteraceae",
+    "Price": "330.71"
+  },
+  {
+    "Id": "8b7034a5-8c20-4d89-a69e-54290abd3976",
+    "Name": "Cyperaceae",
+    "Price": "230.47"
+  },
+  {
+    "Id": "555aa98a-5c3f-42e4-bfc0-1ac5764b6418",
+    "Name": "Asteraceae",
+    "Price": "313.23"
+  },
+  {
+    "Id": "3b11f2c8-3cbf-40c2-bdcd-7b5b769a6092",
+    "Name": "Pinaceae",
+    "Price": "186.55"
+  },
+  {
+    "Id": "4db27de6-df43-4f6a-b8c2-4606d957d0a8",
+    "Name": "Parmeliaceae",
+    "Price": "19.22"
+  },
+  {
+    "Id": "08940aac-db4c-4fae-863e-4992726849fe",
+    "Name": "Asteraceae",
+    "Price": "106.62"
+  },
+  {
+    "Id": "d0ec3628-c3e5-4d9e-af35-456e5b9eab0a",
+    "Name": "Rosaceae",
+    "Price": "275.13"
+  },
+  {
+    "Id": "f8c45a31-b663-4cd7-95ed-5cfaf94c4a0e",
+    "Name": "Juncaceae",
+    "Price": "499.02"
+  },
+  {
+    "Id": "e2cb77a8-b53c-4b72-b05e-cc0dd16605fd",
+    "Name": "Fabaceae",
+    "Price": "596.14"
+  },
+  {
+    "Id": "0112cac1-e0be-41fe-aaa5-986beec4cd41",
+    "Name": "Cyperaceae",
+    "Price": "537.22"
+  },
+  {
+    "Id": "3e90ad0b-df56-488b-a7d9-a62cbacadbcb",
+    "Name": "Brassicaceae",
+    "Price": "65.51"
+  },
+  {
+    "Id": "31956d66-6314-4f43-9231-012e90711c29",
+    "Name": "Bryaceae",
+    "Price": "125.12"
+  },
+  {
+    "Id": "2ec0b152-fa88-4ffc-ac99-7b5369ac2c87",
+    "Name": "Asteraceae",
+    "Price": "475.60"
+  },
+  {
+    "Id": "40b88bb2-2c8c-49b0-9a71-2cfe92d735b6",
+    "Name": "Primulaceae",
+    "Price": "441.56"
+  },
+  {
+    "Id": "c0690884-b7a1-45b7-a7ec-9521d40509c6",
+    "Name": "Apocynaceae",
+    "Price": "309.95"
+  },
+  {
+    "Id": "709e462b-62e2-48b2-afb1-c881b28958b6",
+    "Name": "Rosaceae",
+    "Price": "330.58"
+  },
+  {
+    "Id": "cb1ee9f3-d359-4154-ba6b-e1b335dc5d6e",
+    "Name": "Fabaceae",
+    "Price": "514.32"
+  },
+  {
+    "Id": "6e607ac1-b756-41d1-bb6e-8b2319749d82",
+    "Name": "Scrophulariaceae",
+    "Price": "442.45"
+  },
+  {
+    "Id": "310d0e40-c9c7-4288-9ce5-55a4736c20cb",
+    "Name": "Poaceae",
+    "Price": "535.52"
+  },
+  {
+    "Id": "30aa75c7-8b5f-4c25-9e1e-45dd338737d3",
+    "Name": "Asteraceae",
+    "Price": "558.67"
+  },
+  {
+    "Id": "03da61a5-72ae-485d-a84d-a9a9786e00ad",
+    "Name": "Polytrichaceae",
+    "Price": "158.98"
+  },
+  {
+    "Id": "a71385f8-9797-4d9d-8bcf-b4a19db66b65",
+    "Name": "Salviniaceae",
+    "Price": "494.20"
+  },
+  {
+    "Id": "ee090f63-0a8a-4e84-83fa-699be8c833ff",
+    "Name": "Fabaceae",
+    "Price": "373.70"
+  },
+  {
+    "Id": "7d6b2e90-139c-4400-b46e-6248b0c27fc6",
+    "Name": "Rosaceae",
+    "Price": "438.18"
+  },
+  {
+    "Id": "02e35ca2-cfc1-473f-86ae-39fdfc3edb33",
+    "Name": "Sapindaceae",
+    "Price": "148.31"
+  },
+  {
+    "Id": "a9d41f8b-13d7-4501-8c4d-1fe658b8245b",
+    "Name": "Lamiaceae",
+    "Price": "56.76"
+  },
+  {
+    "Id": "29a30df4-b840-442d-8b50-7ee8ada74ebd",
+    "Name": "Ophioglossaceae",
+    "Price": "74.03"
+  },
+  {
+    "Id": "6f92dc08-092b-4c49-a564-7d45416c05a1",
+    "Name": "Lecanoraceae",
+    "Price": "446.78"
+  },
+  {
+    "Id": "01d6cd42-b6ad-438c-989a-e5d732e643d1",
+    "Name": "Ericaceae",
+    "Price": "374.28"
+  },
+  {
+    "Id": "d500d275-a7ad-4549-8193-1a336a8dcf6f",
+    "Name": "Poaceae",
+    "Price": "38.42"
+  },
+  {
+    "Id": "d9c0039b-83aa-42c8-b9ac-8487e3b375c9",
+    "Name": "Euphorbiaceae",
+    "Price": "107.52"
+  },
+  {
+    "Id": "7ec03ed0-b64e-4aae-8738-01b735a3c0ea",
+    "Name": "Fagaceae",
+    "Price": "492.67"
+  },
+  {
+    "Id": "81e77f08-d7e9-4c3c-973b-d23c94ae16f1",
+    "Name": "Goodeniaceae",
+    "Price": "110.48"
+  },
+  {
+    "Id": "65b15304-beda-400f-89a1-a58e26a9163e",
+    "Name": "Campanulaceae",
+    "Price": "397.06"
+  },
+  {
+    "Id": "18fadeb1-3d4f-4662-9052-670a95ace913",
+    "Name": "Cladoniaceae",
+    "Price": "329.12"
+  },
+  {
+    "Id": "a1cf1efc-0eac-43b6-b8ec-4770dfe0a161",
+    "Name": "Poaceae",
+    "Price": "200.81"
+  },
+  {
+    "Id": "c3e36670-c033-4c5b-b029-523efc9dd2b6",
+    "Name": "Fabaceae",
+    "Price": "246.70"
+  },
+  {
+    "Id": "7665c31d-c6d3-436d-9664-390ef8055e81",
+    "Name": "Sarraceniaceae",
+    "Price": "523.05"
+  },
+  {
+    "Id": "64ab5113-291a-42e5-9e25-4357f5e07faa",
+    "Name": "Apiaceae",
+    "Price": "558.80"
+  },
+  {
+    "Id": "5426f7d0-1f95-4aec-b09c-47a39049900c",
+    "Name": "Turneraceae",
+    "Price": "462.28"
+  },
+  {
+    "Id": "ee077b35-ef97-46af-9c4b-6732b19b14e7",
+    "Name": "Fabaceae",
+    "Price": "47.07"
+  },
+  {
+    "Id": "b017f907-6c3f-484d-9743-0eeb021be699",
+    "Name": "Asteraceae",
+    "Price": "373.87"
+  },
+  {
+    "Id": "a9be8851-04f0-4d37-bcc0-f54dc4ed8154",
+    "Name": "Fabaceae",
+    "Price": "411.21"
+  },
+  {
+    "Id": "fdd36e29-1623-409b-bbd2-6bfc3a40e15e",
+    "Name": "Apiaceae",
+    "Price": "459.73"
+  },
+  {
+    "Id": "ca45a352-ba8b-4db1-ba66-333977037c2b",
+    "Name": "Araceae",
+    "Price": "504.68"
+  },
+  {
+    "Id": "34efc5ce-5c59-4960-a32b-a6a4923812e0",
+    "Name": "Asteraceae",
+    "Price": "559.18"
+  },
+  {
+    "Id": "ebb1ce48-3b75-408b-a218-3a27ac460137",
+    "Name": "Rubiaceae",
+    "Price": "163.15"
+  },
+  {
+    "Id": "d4cc7562-a1a4-45c7-893c-8384a6babdf3",
+    "Name": "Poaceae",
+    "Price": "242.50"
+  },
+  {
+    "Id": "73d994b0-94de-4c37-840d-8d062d46fdf8",
+    "Name": "Agyriaceae",
+    "Price": "98.97"
+  },
+  {
+    "Id": "0f54757b-f6fb-435f-b0ce-c25a5e357a98",
+    "Name": "Scrophulariaceae",
+    "Price": "585.87"
+  },
+  {
+    "Id": "ceb7b43c-7217-4e20-a1a9-ef4ae6278f3d",
+    "Name": "Lecanoraceae",
+    "Price": "312.07"
+  },
+  {
+    "Id": "1ace2bb8-44d7-459f-baad-594e5c013b5c",
+    "Name": "Rosaceae",
+    "Price": "365.93"
+  },
+  {
+    "Id": "fea4fe7e-e4e5-47ed-b928-b2ade2373eec",
+    "Name": "Araceae",
+    "Price": "424.14"
+  },
+  {
+    "Id": "e6d648af-4717-4665-bba4-2dec3aa12421",
+    "Name": "Asteraceae",
+    "Price": "55.89"
+  },
+  {
+    "Id": "62e1c770-93ef-4a55-a601-c285205fad39",
+    "Name": "Primulaceae",
+    "Price": "32.81"
+  },
+  {
+    "Id": "238b079f-47a1-4268-8921-9228973cc830",
+    "Name": "Rosaceae",
+    "Price": "142.36"
+  },
+  {
+    "Id": "f897db21-b69e-4974-9b87-c098bb17cddd",
+    "Name": "Boraginaceae",
+    "Price": "307.69"
+  },
+  {
+    "Id": "bd3b90bc-a1c9-4aa3-a0f9-e81d0d6e437e",
+    "Name": "Cyperaceae",
+    "Price": "127.63"
+  },
+  {
+    "Id": "1b4b75fc-2a8c-4898-941d-ecf82338709a",
+    "Name": "Convolvulaceae",
+    "Price": "373.63"
+  },
+  {
+    "Id": "795a2990-8ccf-45bf-8d83-43cb3d417f19",
+    "Name": "Ulmaceae",
+    "Price": "364.31"
+  },
+  {
+    "Id": "de7abffc-ee05-49ba-b05a-523276252ca1",
+    "Name": "Polygonaceae",
+    "Price": "20.39"
+  },
+  {
+    "Id": "201a4a94-c9a3-4b35-9e18-3d9d7e1511d9",
+    "Name": "Graphidaceae",
+    "Price": "445.09"
+  },
+  {
+    "Id": "341823d4-fb7e-4647-b0e9-752e459bd672",
+    "Name": "Asteraceae",
+    "Price": "461.70"
+  },
+  {
+    "Id": "92954b67-c983-4e9a-a706-b9b1c5de5ab1",
+    "Name": "Lecythidaceae",
+    "Price": "585.42"
+  },
+  {
+    "Id": "41b05843-7759-4313-a0f4-8d96feed8ee8",
+    "Name": "Poaceae",
+    "Price": "160.59"
+  },
+  {
+    "Id": "dff5a202-2cf8-4d82-ac27-91bba9817a03",
+    "Name": "Betulaceae",
+    "Price": "563.95"
+  },
+  {
+    "Id": "5d6f6846-3bb4-4380-846a-b88346763b32",
+    "Name": "Rhamnaceae",
+    "Price": "257.37"
+  },
+  {
+    "Id": "7b4463bc-5963-43e1-ab43-c2cf4ff59108",
+    "Name": "Tiliaceae",
+    "Price": "274.30"
+  },
+  {
+    "Id": "87e88eab-7337-421b-a628-2ab33139abb9",
+    "Name": "Cyperaceae",
+    "Price": "278.11"
+  },
+  {
+    "Id": "5ac39d9b-916e-4747-b90d-f23e7e787789",
+    "Name": "Asteraceae",
+    "Price": "109.86"
+  },
+  {
+    "Id": "446fa3bd-2980-4ebd-a255-7a83ba693b79",
+    "Name": "Fabaceae",
+    "Price": "13.82"
+  },
+  {
+    "Id": "8820a415-92c1-441f-81bc-219e987dbf42",
+    "Name": "Asteraceae",
+    "Price": "85.53"
+  },
+  {
+    "Id": "e74fc20e-dd1b-496e-bf6e-9533d474cd2a",
+    "Name": "Caryophyllaceae",
+    "Price": "377.39"
+  },
+  {
+    "Id": "f2ffd3e8-b202-4456-b87e-61c0ee9cf825",
+    "Name": "Asteraceae",
+    "Price": "352.56"
+  },
+  {
+    "Id": "2df255a9-19bc-495e-b87b-e299ce8007bd",
+    "Name": "Papaveraceae",
+    "Price": "360.28"
+  },
+  {
+    "Id": "4cf7add5-3c74-4324-b421-bc97462a94dd",
+    "Name": "Ranunculaceae",
+    "Price": "102.38"
+  },
+  {
+    "Id": "1339dfb8-61fd-4945-ae5e-d711ce881787",
+    "Name": "Cyperaceae",
+    "Price": "320.55"
+  },
+  {
+    "Id": "82f503f4-7253-49dd-9996-8a270cd80f47",
+    "Name": "Pyrolaceae",
+    "Price": "537.46"
+  },
+  {
+    "Id": "04ec9129-ea06-4607-917b-a6a945c4e5db",
+    "Name": "Polemoniaceae",
+    "Price": "210.36"
+  },
+  {
+    "Id": "aa674c28-484b-484d-a22a-4f822ce2c89e",
+    "Name": "Poaceae",
+    "Price": "497.39"
+  },
+  {
+    "Id": "f48b4204-388d-4a1a-979d-52b487058db9",
+    "Name": "Asteraceae",
+    "Price": "258.15"
+  },
+  {
+    "Id": "79b12c92-e1cd-41b0-9019-f8600f96efa8",
+    "Name": "Solanaceae",
+    "Price": "529.88"
+  },
+  {
+    "Id": "51a7bda7-cc93-4444-a0ea-6c9cdb1cbb98",
+    "Name": "Rutaceae",
+    "Price": "312.02"
+  },
+  {
+    "Id": "e862bf08-d980-46a8-bae1-52532f1878c5",
+    "Name": "Poaceae",
+    "Price": "583.86"
+  },
+  {
+    "Id": "e14d4eca-d380-4434-a517-71498987d406",
+    "Name": "Hydrophyllaceae",
+    "Price": "84.35"
+  },
+  {
+    "Id": "c75c8b91-b4ca-4d16-8bea-4a2e4963dd5c",
+    "Name": "Polemoniaceae",
+    "Price": "289.75"
+  },
+  {
+    "Id": "4b220e3a-b82b-4b23-b4c1-71e79c1f4349",
+    "Name": "Zingiberaceae",
+    "Price": "327.57"
+  },
+  {
+    "Id": "2a8561c6-1518-4fc5-9d5e-760590857740",
+    "Name": "Poaceae",
+    "Price": "371.04"
+  },
+  {
+    "Id": "2592a4ae-381a-422c-97f5-5fd6096b48af",
+    "Name": "Asclepiadaceae",
+    "Price": "191.50"
+  },
+  {
+    "Id": "159fa8dc-8113-490b-8398-a86d72413d0d",
+    "Name": "Brassicaceae",
+    "Price": "304.94"
+  },
+  {
+    "Id": "90573ef0-874d-4018-881a-a7d97311b0d1",
+    "Name": "Arthopyreniaceae",
+    "Price": "76.17"
+  },
+  {
+    "Id": "0a86fed2-5d16-4425-87f1-9976ff161a0f",
+    "Name": "Hydrocharitaceae",
+    "Price": "20.44"
+  },
+  {
+    "Id": "afd9ce19-8e86-45ef-a260-abcf69c15136",
+    "Name": "Polygonaceae",
+    "Price": "7.20"
+  },
+  {
+    "Id": "6ce4956d-db4f-4614-bdae-7a711404ba91",
+    "Name": "Hydrophyllaceae",
+    "Price": "545.22"
+  },
+  {
+    "Id": "0afc7cea-ec9f-47c5-aa17-3fb537ae5655",
+    "Name": "Fabaceae",
+    "Price": "490.30"
+  },
+  {
+    "Id": "fd07e978-6b41-4a21-8148-2d79cf22d402",
+    "Name": "Cladoniaceae",
+    "Price": "494.03"
+  },
+  {
+    "Id": "1438d3c8-69d8-4ebc-bf42-38f8a58dba0e",
+    "Name": "Moraceae",
+    "Price": "370.51"
+  },
+  {
+    "Id": "f9723e36-eb0c-4db9-826c-edada9dab9c5",
+    "Name": "Euphorbiaceae",
+    "Price": "101.38"
+  },
+  {
+    "Id": "cd850830-1a93-4ab6-ba2c-862e18553cb2",
+    "Name": "Poaceae",
+    "Price": "115.29"
+  },
+  {
+    "Id": "4299bdcb-eae5-4154-9d25-ec412b248c1d",
+    "Name": "Acarosporaceae",
+    "Price": "244.58"
+  },
+  {
+    "Id": "1280b35b-3f30-40ba-bdef-a53c536d3f09",
+    "Name": "Fabaceae",
+    "Price": "406.50"
+  },
+  {
+    "Id": "5819e5d8-907a-4d92-88c0-01b140600e71",
+    "Name": "Scrophulariaceae",
+    "Price": "47.61"
+  },
+  {
+    "Id": "343f38f3-e2b1-41f9-9d87-608adadeb7a2",
+    "Name": "Selaginellaceae",
+    "Price": "215.76"
+  },
+  {
+    "Id": "59ed231f-2888-49b6-bc88-1e69d5b4a0ae",
+    "Name": "Asteraceae",
+    "Price": "358.88"
+  },
+  {
+    "Id": "71cff927-6c2e-4f26-a234-c781e17950c3",
+    "Name": "Nyctaginaceae",
+    "Price": "330.50"
+  },
+  {
+    "Id": "0f460960-17ed-4e58-8f74-8245d57666ae",
+    "Name": "Burseraceae",
+    "Price": "138.26"
+  },
+  {
+    "Id": "1c910899-1981-4846-98f1-31b74756e795",
+    "Name": "Amblystegiaceae",
+    "Price": "397.95"
+  },
+  {
+    "Id": "49f7fbb9-4e76-4256-97bc-d7076d3bcd02",
+    "Name": "Rosaceae",
+    "Price": "64.97"
+  },
+  {
+    "Id": "0f2c97b3-8e35-4c4b-8431-ebb3f1551a95",
+    "Name": "Poaceae",
+    "Price": "51.69"
+  },
+  {
+    "Id": "57d8efbf-1698-41ed-8c18-6445ad51c263",
+    "Name": "Rubiaceae",
+    "Price": "161.97"
+  },
+  {
+    "Id": "1af130cf-9c8f-4034-8ea5-e4f9aba2114f",
+    "Name": "Asteraceae",
+    "Price": "588.69"
+  },
+  {
+    "Id": "bdf39839-a9f9-4d17-824e-4a0fa7825ec1",
+    "Name": "Commelinaceae",
+    "Price": "411.64"
+  },
+  {
+    "Id": "6675d727-af94-4b2e-84dd-6ee3fba6a0a4",
+    "Name": "Parmeliaceae",
+    "Price": "86.03"
+  },
+  {
+    "Id": "54ce54f3-6fac-4652-9dbc-53a63eb28758",
+    "Name": "Gentianaceae",
+    "Price": "178.04"
+  },
+  {
+    "Id": "b724ac80-3cd2-4119-9053-92bd0df3b375",
+    "Name": "Primulaceae",
+    "Price": "110.95"
+  },
+  {
+    "Id": "327ae610-f30e-4347-9f17-d68e1e492a63",
+    "Name": "Cyperaceae",
+    "Price": "249.71"
+  },
+  {
+    "Id": "45f01fa5-3908-49a8-958f-8b550a66f9ca",
+    "Name": "Poaceae",
+    "Price": "329.98"
+  },
+  {
+    "Id": "cb3f07c1-a769-46a7-9d6e-fc08d4cae628",
+    "Name": "Liliaceae",
+    "Price": "519.44"
+  },
+  {
+    "Id": "c34b7422-0981-44e6-aa93-5cbb04749a98",
+    "Name": "Asteraceae",
+    "Price": "478.58"
+  },
+  {
+    "Id": "9dd575f1-4e9f-429e-bb64-f44fba95fa07",
+    "Name": "Asteraceae",
+    "Price": "531.04"
+  },
+  {
+    "Id": "7f6a1792-b53e-41d4-9f2e-8b37fcde49c8",
+    "Name": "Asteraceae",
+    "Price": "29.35"
+  },
+  {
+    "Id": "d78b16df-3c57-4dda-99aa-804661cf297d",
+    "Name": "Pteridaceae",
+    "Price": "20.97"
+  },
+  {
+    "Id": "6c34c124-1d16-42b9-b3a1-a18f8893e879",
+    "Name": "Liliaceae",
+    "Price": "542.69"
+  },
+  {
+    "Id": "ca1ebb5c-f4bf-4983-82d5-955c02cf7879",
+    "Name": "Geraniaceae",
+    "Price": "530.54"
+  },
+  {
+    "Id": "b875d19f-adaa-4253-9902-3c1c0ad95fe6",
+    "Name": "Poaceae",
+    "Price": "594.23"
+  },
+  {
+    "Id": "b8b80e45-e224-4d01-b763-944d0088ef19",
+    "Name": "Verrucariaceae",
+    "Price": "444.96"
+  },
+  {
+    "Id": "3ec809d5-4a83-4411-b74f-cd2ce6a4e11b",
+    "Name": "Fabaceae",
+    "Price": "30.94"
+  },
+  {
+    "Id": "688b8468-2f36-4c5d-99d0-87ed355f6ca1",
+    "Name": "Asteraceae",
+    "Price": "444.04"
+  },
+  {
+    "Id": "31065084-8b3d-4490-8d3e-8448a942db28",
+    "Name": "Apiaceae",
+    "Price": "31.24"
+  },
+  {
+    "Id": "477c3ab0-886e-4909-a8e3-717e1330d697",
+    "Name": "Solanaceae",
+    "Price": "145.45"
+  },
+  {
+    "Id": "a31f5011-d186-44e8-ba4d-9820ba502d0e",
+    "Name": "Iridaceae",
+    "Price": "125.93"
+  },
+  {
+    "Id": "8b795597-0798-48e7-9b64-ac0f6e153b05",
+    "Name": "Portulacaceae",
+    "Price": "557.14"
+  },
+  {
+    "Id": "b8dd9c4f-4044-4631-817e-b8f024a76513",
+    "Name": "Salicaceae",
+    "Price": "172.45"
+  },
+  {
+    "Id": "e6574f28-7e5c-4695-b3b7-9ad64b713d28",
+    "Name": "Asteraceae",
+    "Price": "388.62"
+  },
+  {
+    "Id": "46ade85d-561b-4fc7-9ca9-0af37e6875d1",
+    "Name": "Cactaceae",
+    "Price": "334.84"
+  },
+  {
+    "Id": "f56a2052-2d71-4103-8332-19e33246ddd0",
+    "Name": "Euphorbiaceae",
+    "Price": "325.14"
+  },
+  {
+    "Id": "c121362d-ec3d-45ba-8b7b-d22017aa7c2d",
+    "Name": "Convolvulaceae",
+    "Price": "7.10"
+  },
+  {
+    "Id": "f1729439-0655-4856-a252-9f20094b9c3a",
+    "Name": "Ulmaceae",
+    "Price": "150.23"
+  },
+  {
+    "Id": "16ace860-4bfa-4a32-97aa-005d5f7092d6",
+    "Name": "Poaceae",
+    "Price": "199.17"
+  },
+  {
+    "Id": "b67ee1ce-9755-4852-b351-7e8d8e319693",
+    "Name": "Nyctaginaceae",
+    "Price": "473.20"
+  },
+  {
+    "Id": "38f5e54b-3cda-497c-88b3-40b9244f8b9e",
+    "Name": "Isoetaceae",
+    "Price": "304.01"
+  },
+  {
+    "Id": "381d97e4-be3a-4a29-ba7a-82ad13f8f5a8",
+    "Name": "Cyperaceae",
+    "Price": "82.79"
+  },
+  {
+    "Id": "2e576d35-4c80-40ac-8c52-d8ccee4e7767",
+    "Name": "Asteraceae",
+    "Price": "557.91"
+  },
+  {
+    "Id": "4677bb64-df44-4c80-b481-fdf88777d9eb",
+    "Name": "Parmeliaceae",
+    "Price": "252.91"
+  },
+  {
+    "Id": "5dbe723e-e856-409a-aa2e-0f394538d6bf",
+    "Name": "Caprifoliaceae",
+    "Price": "348.08"
+  },
+  {
+    "Id": "a861029f-198d-4aa9-8359-5037ffcab7bf",
+    "Name": "Pinaceae",
+    "Price": "589.40"
+  },
+  {
+    "Id": "4cf44f14-4d85-466f-ac16-efe3a00bc73a",
+    "Name": "Poaceae",
+    "Price": "530.46"
+  },
+  {
+    "Id": "9280a853-a775-41ca-a6cc-eb5e06e3dcc7",
+    "Name": "Onagraceae",
+    "Price": "117.73"
+  },
+  {
+    "Id": "7a7e5cba-f1e0-475b-96d4-b06254ad2ac6",
+    "Name": "Crassulaceae",
+    "Price": "234.14"
+  },
+  {
+    "Id": "b0598277-2826-4c2b-b901-37206f7acfc9",
+    "Name": "Arecaceae",
+    "Price": "349.61"
+  },
+  {
+    "Id": "54f73e8a-c753-41e8-9522-3407bf418f7e",
+    "Name": "Rosaceae",
+    "Price": "349.94"
+  },
+  {
+    "Id": "df499afd-84d9-47f3-bf08-f85d9e04a9d0",
+    "Name": "Cyperaceae",
+    "Price": "278.61"
+  },
+  {
+    "Id": "064a24f7-8876-421a-8782-646156fd68a4",
+    "Name": "Anacardiaceae",
+    "Price": "426.81"
+  },
+  {
+    "Id": "2d39e3c6-9457-4def-b9b1-9c6a7bc4dcb6",
+    "Name": "Clusiaceae",
+    "Price": "364.35"
+  },
+  {
+    "Id": "791276a7-6717-41ee-a674-47ac907eb184",
+    "Name": "Juncaceae",
+    "Price": "342.91"
+  },
+  {
+    "Id": "301c0a53-74de-4e04-bf2d-5cea56bbb88a",
+    "Name": "Euphorbiaceae",
+    "Price": "208.72"
+  },
+  {
+    "Id": "310c77ff-5a2a-4901-92b8-2196ec579d11",
+    "Name": "Poaceae",
+    "Price": "65.09"
+  },
+  {
+    "Id": "c9be6670-cddb-453b-98c4-cf9d0c9d95c3",
+    "Name": "Brassicaceae",
+    "Price": "127.22"
+  },
+  {
+    "Id": "fe85a668-474f-4a6e-844a-498fbcd0e24b",
+    "Name": "Scrophulariaceae",
+    "Price": "38.16"
+  },
+  {
+    "Id": "74261e62-d773-4643-86a5-0435b35a5cc0",
+    "Name": "Asteraceae",
+    "Price": "271.80"
+  },
+  {
+    "Id": "f894ca97-18fa-4926-881e-01bc953df0cf",
+    "Name": "Bryaceae",
+    "Price": "317.37"
+  },
+  {
+    "Id": "eb314ae6-209c-4565-a93d-bb24039714ab",
+    "Name": "Rhamnaceae",
+    "Price": "229.91"
+  },
+  {
+    "Id": "bd3d7d62-ba5d-47ac-90c5-b67ddd73719a",
+    "Name": "Cornaceae",
+    "Price": "108.52"
+  },
+  {
+    "Id": "77b4414d-8038-421f-a1a2-f60f3c025601",
+    "Name": "Dicranaceae",
+    "Price": "453.74"
+  },
+  {
+    "Id": "555562da-af05-4be8-93ae-ecdd65048eb3",
+    "Name": "Fabaceae",
+    "Price": "432.49"
+  },
+  {
+    "Id": "0cb648ca-6c41-4931-aeab-3a8b816fc7b9",
+    "Name": "Funariaceae",
+    "Price": "490.11"
+  },
+  {
+    "Id": "083e7bdc-c71f-47c2-86f5-ef72990454ff",
+    "Name": "Scrophulariaceae",
+    "Price": "83.39"
+  },
+  {
+    "Id": "c40f13e1-31b6-4aa4-9fbd-16a10a21a963",
+    "Name": "Polytrichaceae",
+    "Price": "415.09"
+  },
+  {
+    "Id": "35d9968c-99ae-4183-8426-53a5f7a48ca4",
+    "Name": "Orobanchaceae",
+    "Price": "468.68"
+  },
+  {
+    "Id": "9066d408-5942-493b-b462-e0208a84f9fc",
+    "Name": "Scrophulariaceae",
+    "Price": "128.35"
+  },
+  {
+    "Id": "50bc18ea-5ed0-4748-b1a2-f2b59b493a5b",
+    "Name": "Asteraceae",
+    "Price": "84.47"
+  },
+  {
+    "Id": "e0d57970-b7e5-43cf-81cf-731072160010",
+    "Name": "Fabaceae",
+    "Price": "324.76"
+  },
+  {
+    "Id": "15e41589-f9fd-4bf8-91d6-db8daa1504d1",
+    "Name": "Salicaceae",
+    "Price": "100.93"
+  },
+  {
+    "Id": "565c7909-f900-49d2-8676-428decb48224",
+    "Name": "Asteraceae",
+    "Price": "207.87"
+  },
+  {
+    "Id": "bd40114d-bcb0-4edc-b510-08f2fefb0a79",
+    "Name": "Bryaceae",
+    "Price": "258.93"
+  },
+  {
+    "Id": "e7dd5ce3-74fc-4897-a99a-97cd26fffd62",
+    "Name": "Liliaceae",
+    "Price": "529.13"
+  },
+  {
+    "Id": "24e4c24d-8521-4a32-b6d7-3d28e52b5a34",
+    "Name": "Pottiaceae",
+    "Price": "597.82"
+  },
+  {
+    "Id": "3a551972-5964-4c60-a8b8-145fa43c7ee0",
+    "Name": "Rhizophoraceae",
+    "Price": "169.20"
+  },
+  {
+    "Id": "5946c2f6-760e-4992-9ffc-734af5ef0a3e",
+    "Name": "Lecideaceae",
+    "Price": "450.35"
+  },
+  {
+    "Id": "760fd65a-17fc-4aea-bc27-29f828776dae",
+    "Name": "Poaceae",
+    "Price": "558.87"
+  },
+  {
+    "Id": "c4af4556-3a22-48e7-bd28-5b0dcf3e7c88",
+    "Name": "Stereocaulaceae",
+    "Price": "289.64"
+  },
+  {
+    "Id": "9601f231-ffa4-427c-a230-d571d3bd5e81",
+    "Name": "Orchidaceae",
+    "Price": "457.14"
+  },
+  {
+    "Id": "9fda8be1-3471-4aff-a1de-1073767fd81e",
+    "Name": "Polygonaceae",
+    "Price": "354.31"
+  },
+  {
+    "Id": "85049406-46c3-474c-8de2-3f20c0fe7bcc",
+    "Name": "Violaceae",
+    "Price": "242.71"
+  },
+  {
+    "Id": "18601a1a-3c0f-440b-ba08-fc759166b46a",
+    "Name": "Saxifragaceae",
+    "Price": "59.45"
+  },
+  {
+    "Id": "de1b2221-113f-43dd-b5d9-9e90283f3797",
+    "Name": "Chenopodiaceae",
+    "Price": "470.51"
+  },
+  {
+    "Id": "3b51cfcc-6f1c-4a84-b81f-c78f66762c54",
+    "Name": "Meliaceae",
+    "Price": "426.49"
+  },
+  {
+    "Id": "07d06f49-3e9a-41cf-8629-72de7ea548a3",
+    "Name": "Brassicaceae",
+    "Price": "47.21"
+  },
+  {
+    "Id": "2ed7ff5d-cd30-40a2-8ac3-426aac23382a",
+    "Name": "Asteraceae",
+    "Price": "553.78"
+  },
+  {
+    "Id": "d8ba23d6-d452-42fc-96bc-7f53dc9c6044",
+    "Name": "Rosaceae",
+    "Price": "494.64"
+  },
+  {
+    "Id": "3e883b60-4ae2-45b8-bf14-232b0782a52f",
+    "Name": "Polemoniaceae",
+    "Price": "71.10"
+  },
+  {
+    "Id": "1ed1cb58-1298-4bef-ace7-784e212c6b52",
+    "Name": "Campanulaceae",
+    "Price": "85.33"
+  },
+  {
+    "Id": "0822ea42-3a89-436e-8809-a857aec9b862",
+    "Name": "Caprifoliaceae",
+    "Price": "127.62"
+  },
+  {
+    "Id": "484ce63f-2d97-461b-a366-2853f46e0429",
+    "Name": "Orchidaceae",
+    "Price": "192.89"
+  },
+  {
+    "Id": "dadc604c-1c47-4b04-9806-854a0c87a07d",
+    "Name": "Anacardiaceae",
+    "Price": "412.77"
+  },
+  {
+    "Id": "7fd94aa2-d51a-4292-910d-daae2d713a68",
+    "Name": "Amaranthaceae",
+    "Price": "238.11"
+  },
+  {
+    "Id": "a67bf1e5-f6cb-48c0-8113-b111350deaf2",
+    "Name": "Alismataceae",
+    "Price": "99.12"
+  },
+  {
+    "Id": "f86c58f7-7bdb-4119-bd49-79b51446d71a",
+    "Name": "Aquifoliaceae",
+    "Price": "364.56"
+  },
+  {
+    "Id": "d1998118-516c-4fb8-8445-143957fcfcb7",
+    "Name": "Asteraceae",
+    "Price": "19.68"
+  },
+  {
+    "Id": "b5abe3b5-d637-459f-a07b-4d2364d3335c",
+    "Name": "Poaceae",
+    "Price": "80.98"
+  },
+  {
+    "Id": "c27f9d52-e53c-4855-a289-c3511014596e",
+    "Name": "Poaceae",
+    "Price": "388.23"
+  },
+  {
+    "Id": "c5b8d718-d0e1-4a94-aee3-1ce2a6b9e810",
+    "Name": "Liliaceae",
+    "Price": "33.53"
+  },
+  {
+    "Id": "266ac1ec-8532-46b2-a1a5-feb706b6afb2",
+    "Name": "Sapindaceae",
+    "Price": "271.57"
+  },
+  {
+    "Id": "1e0f35da-4315-4fe8-a29e-ccd221569522",
+    "Name": "Solanaceae",
+    "Price": "131.79"
+  },
+  {
+    "Id": "5bcda4fa-a2ba-4b3e-86a1-831f7149f8b1",
+    "Name": "Cyperaceae",
+    "Price": "402.29"
+  },
+  {
+    "Id": "0b03ce94-b7f5-427d-af6d-1e7b7e4defb8",
+    "Name": "Sarraceniaceae",
+    "Price": "68.80"
+  },
+  {
+    "Id": "30655dd1-1370-4047-a9ba-76df853bc0fc",
+    "Name": "Lamiaceae",
+    "Price": "132.25"
+  },
+  {
+    "Id": "3e86727f-d28d-444a-85c2-a343436afed9",
+    "Name": "Ranunculaceae",
+    "Price": "333.16"
+  },
+  {
+    "Id": "e5e6e1f5-046d-4459-95cb-222dbaac4a81",
+    "Name": "Dryopteridaceae",
+    "Price": "241.86"
+  },
+  {
+    "Id": "4021dff4-aa75-4963-b0b4-59a9599329e1",
+    "Name": "Grammitidaceae",
+    "Price": "595.64"
+  },
+  {
+    "Id": "c598e40d-4193-40bc-865c-9d7929ba65f7",
+    "Name": "Hippocrateaceae",
+    "Price": "288.38"
+  },
+  {
+    "Id": "8a21aa7f-133f-4480-a82a-5c2e684d14c1",
+    "Name": "Lamiaceae",
+    "Price": "156.91"
+  },
+  {
+    "Id": "53b9b910-90b1-4684-99ed-4395c38fb09b",
+    "Name": "Dryopteridaceae",
+    "Price": "385.44"
+  },
+  {
+    "Id": "9a7fbcd0-449b-4dd5-bfd2-fb43a0d735d5",
+    "Name": "Fabaceae",
+    "Price": "331.80"
+  },
+  {
+    "Id": "8092932b-3103-46ae-88d5-ce665f5b9c86",
+    "Name": "Loranthaceae",
+    "Price": "274.75"
+  },
+  {
+    "Id": "f8ad62e2-a339-4baa-aee6-78aea6dfda9b",
+    "Name": "Scrophulariaceae",
+    "Price": "465.67"
+  },
+  {
+    "Id": "8ae53432-eb37-4e56-94ff-6e83a6431433",
+    "Name": "Asteraceae",
+    "Price": "320.90"
+  },
+  {
+    "Id": "3597bf68-0388-4fe9-bade-9b3befde6608",
+    "Name": "Sphagnaceae",
+    "Price": "284.19"
+  },
+  {
+    "Id": "8c24f8a5-1640-4f76-a0e7-c2d9f08854b3",
+    "Name": "Caryophyllaceae",
+    "Price": "539.40"
+  },
+  {
+    "Id": "c5ba94d4-13fc-4830-a2b7-de8b8e304410",
+    "Name": "Liliaceae",
+    "Price": "238.11"
+  },
+  {
+    "Id": "57c4042c-7742-4545-8281-7558f60817dc",
+    "Name": "Polemoniaceae",
+    "Price": "388.62"
+  },
+  {
+    "Id": "ba4cd8d1-8d3d-407b-ada3-437bc793933b",
+    "Name": "Elaeocarpaceae",
+    "Price": "44.47"
+  },
+  {
+    "Id": "02c06d2d-de0f-4ad3-a037-485c874a5f5c",
+    "Name": "Bacidiaceae",
+    "Price": "427.75"
+  },
+  {
+    "Id": "aed7e98a-ce26-4e29-827b-ff53d4b38d83",
+    "Name": "Rubiaceae",
+    "Price": "469.97"
+  },
+  {
+    "Id": "189c9477-1d6d-46f9-8ccc-5df42b2cecaa",
+    "Name": "Tropaeolaceae",
+    "Price": "539.48"
+  },
+  {
+    "Id": "200afd9c-9e5e-4df0-bb24-2efdf9d20459",
+    "Name": "Rhamnaceae",
+    "Price": "389.83"
+  },
+  {
+    "Id": "5bc46616-6b1e-491e-8fca-0a20481c865b",
+    "Name": "Dryopteridaceae",
+    "Price": "544.42"
+  },
+  {
+    "Id": "87783e29-6de3-4066-97f8-969376d298f4",
+    "Name": "Bacidiaceae",
+    "Price": "61.28"
+  },
+  {
+    "Id": "bbf64b72-f3ee-49aa-9654-9e3a583064dd",
+    "Name": "Lythraceae",
+    "Price": "444.25"
+  },
+  {
+    "Id": "66affc40-fb75-43f9-91a6-b6eb191189be",
+    "Name": "Salicaceae",
+    "Price": "535.53"
+  },
+  {
+    "Id": "c5cfbe91-8fca-4a3d-a340-bbfe5ce9f352",
+    "Name": "Polytrichaceae",
+    "Price": "80.29"
+  },
+  {
+    "Id": "da7ca235-4c6f-48a6-aa22-215e2ec86c83",
+    "Name": "Asteraceae",
+    "Price": "105.94"
+  },
+  {
+    "Id": "3f084b5c-2e18-4ae2-a983-f274966132bd",
+    "Name": "Malvaceae",
+    "Price": "31.86"
+  },
+  {
+    "Id": "df8942ca-858a-4b44-b8cb-64d65eca04eb",
+    "Name": "Myrtaceae",
+    "Price": "145.53"
+  },
+  {
+    "Id": "f35bd22f-16af-40dd-a0d1-e264e0915e80",
+    "Name": "Brassicaceae",
+    "Price": "218.11"
+  },
+  {
+    "Id": "a924f5b2-5b76-4927-a51c-48087bb3a86a",
+    "Name": "Poaceae",
+    "Price": "115.08"
+  },
+  {
+    "Id": "0483f497-4209-40a4-bdb7-d10af9dbf902",
+    "Name": "Dennstaedtiaceae",
+    "Price": "59.94"
+  },
+  {
+    "Id": "78807e55-e9de-44ba-906a-95160b14209c",
+    "Name": "Asteraceae",
+    "Price": "338.34"
+  },
+  {
+    "Id": "f32f3ac8-e336-42ee-a037-d0593d66fd8a",
+    "Name": "Lamiaceae",
+    "Price": "436.63"
+  },
+  {
+    "Id": "23faff99-e07b-4c89-a5e5-183a1e5e6ddb",
+    "Name": "Convolvulaceae",
+    "Price": "592.36"
+  },
+  {
+    "Id": "11ea4a3e-30af-46e5-a874-ecce621f5d6f",
+    "Name": "Boraginaceae",
+    "Price": "279.05"
+  },
+  {
+    "Id": "6d70be4d-a49f-465b-9e0a-d6db513c2f1a",
+    "Name": "Asteraceae",
+    "Price": "478.36"
+  },
+  {
+    "Id": "dc4f012a-9daf-49ac-a0f4-63871898de96",
+    "Name": "Poaceae",
+    "Price": "392.11"
+  },
+  {
+    "Id": "e17a7225-84ab-4990-9753-560c54ed1cc2",
+    "Name": "Najadaceae",
+    "Price": "460.96"
+  },
+  {
+    "Id": "01672479-79e1-43b5-8a48-a9dce5b1ca3a",
+    "Name": "Dryopteridaceae",
+    "Price": "339.23"
+  },
+  {
+    "Id": "06748fc3-37c1-4bd7-b4bc-2c0b2ca7eda5",
+    "Name": "Hypnaceae",
+    "Price": "187.17"
+  },
+  {
+    "Id": "2ff28c30-e357-40cb-bc8a-9dc72ecdc3f3",
+    "Name": "Primulaceae",
+    "Price": "551.88"
+  },
+  {
+    "Id": "547d5b63-ed90-444c-add5-f756f88c946f",
+    "Name": "Asteraceae",
+    "Price": "266.25"
+  },
+  {
+    "Id": "e175c996-6e1f-403d-b02a-826ec86d97d3",
+    "Name": "Santalaceae",
+    "Price": "518.21"
+  },
+  {
+    "Id": "99b82902-185e-4575-8411-dc53329c519d",
+    "Name": "Amaranthaceae",
+    "Price": "476.19"
+  },
+  {
+    "Id": "d4a400fb-0fc1-4eda-874d-70fcf01daf91",
+    "Name": "Malvaceae",
+    "Price": "55.21"
+  },
+  {
+    "Id": "b77b46d5-2d7a-4b8f-ac69-a22ad938fdb0",
+    "Name": "Encalyptaceae",
+    "Price": "314.82"
+  },
+  {
+    "Id": "5048fcde-c8ce-4168-9e8b-d0e8e5f7d2cb",
+    "Name": "Asteraceae",
+    "Price": "324.57"
+  },
+  {
+    "Id": "2a2dfefc-169f-4b42-ad3b-958c03d2f79f",
+    "Name": "Campanulaceae",
+    "Price": "450.36"
+  },
+  {
+    "Id": "80740383-8bab-48d2-8dd3-23a006a6e0ed",
+    "Name": "Fagaceae",
+    "Price": "590.81"
+  },
+  {
+    "Id": "a2796178-2b51-4bec-b731-a8426ad1dde3",
+    "Name": "Asteraceae",
+    "Price": "153.01"
+  },
+  {
+    "Id": "67df1473-5569-4ae0-b3c7-3b3c5668ff70",
+    "Name": "Asteraceae",
+    "Price": "337.48"
+  },
+  {
+    "Id": "9184b313-41e5-49a3-a74c-105251e9be5d",
+    "Name": "Campanulaceae",
+    "Price": "348.73"
+  },
+  {
+    "Id": "c4a54dc5-b2f2-4eb7-8b12-7ecffb2a868b",
+    "Name": "Brassicaceae",
+    "Price": "3.66"
+  },
+  {
+    "Id": "f8cf6ec8-6d91-4868-86f1-1908d272bbed",
+    "Name": "Meliaceae",
+    "Price": "336.75"
+  },
+  {
+    "Id": "287f1dc6-8361-425a-b9b2-61cedf2e4141",
+    "Name": "Fabaceae",
+    "Price": "227.59"
+  },
+  {
+    "Id": "c99cdb4d-09b3-4f25-9d15-12cbdc07ea14",
+    "Name": "Fabaceae",
+    "Price": "156.83"
+  },
+  {
+    "Id": "4faa10fe-5305-4c37-bc53-a0dca4613145",
+    "Name": "Catillariaceae",
+    "Price": "247.30"
+  },
+  {
+    "Id": "79b7fef5-7724-4f9a-bfc2-bb909ba02faa",
+    "Name": "Asteraceae",
+    "Price": "386.45"
+  },
+  {
+    "Id": "f1b4da69-4178-4bf4-8b11-a10bf373aedb",
+    "Name": "Hedwigiaceae",
+    "Price": "501.09"
+  },
+  {
+    "Id": "6fe3fb92-485b-48f5-93ec-89d32855102e",
+    "Name": "Asterothyriaceae",
+    "Price": "156.96"
+  },
+  {
+    "Id": "240fb3f2-bfde-4473-ac90-23039c77c78a",
+    "Name": "Brassicaceae",
+    "Price": "556.06"
+  },
+  {
+    "Id": "e482ef33-1b5d-4f36-b9de-b7d38d5b9ee6",
+    "Name": "Ranunculaceae",
+    "Price": "537.35"
+  },
+  {
+    "Id": "f4ad326b-d06b-41fd-8003-2b882c3807ea",
+    "Name": "Saxifragaceae",
+    "Price": "271.13"
+  },
+  {
+    "Id": "56bc4a3e-6184-4055-b429-b579cf22c52c",
+    "Name": "Polemoniaceae",
+    "Price": "355.39"
+  },
+  {
+    "Id": "dd7d062b-bd2a-446e-b64d-a36f7d6f5b07",
+    "Name": "Campanulaceae",
+    "Price": "149.81"
+  },
+  {
+    "Id": "0d47bcee-1d4b-43d0-b4f9-4548d2c788ad",
+    "Name": "Poaceae",
+    "Price": "425.88"
+  }
+]

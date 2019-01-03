@@ -1,0 +1,482 @@
+[
+  {
+    "Id": "a1b15197-f92e-4760-add3-193deca3f5ee",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "78cc6661-5f92-4033-9d53-c36a4fefdf23",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "40e4ff79-2460-4c48-94b4-8de06a6c568e",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "443523c3-277c-47db-aeb2-0deb27184491",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "d1da3653-f3ee-48b2-b0a7-491fc6b95eef",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "4d612444-fe62-4d09-a28f-9d1f21d38b68",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "2678a167-d8ad-4546-b73c-d1b5f3b2894d",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "646d1de3-04ff-4563-a0c0-19df252cdc30",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "b15ddcbb-64fb-42b0-90ce-4ca447f974fe",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "b26bf6fe-f2a0-4f09-b341-bdb58d4dfbf6",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "cbe4fe0d-ecfd-4953-b97e-36269f82cea9",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "0ae5cd3e-f502-4fe4-b807-f1da5312bb55",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "888e8e12-1e8a-44f6-900b-efd17e86efc9",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "b9fdddf2-b3db-48bc-8531-fc5a6299833b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "e327c473-b98b-4f98-9a34-fd0df34d1465",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "67c62e07-792e-4fea-9d2a-934384563d2f",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "f0a32edd-1977-4285-95a9-59307acb7fad",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "17ab25f4-7578-40fb-a181-c351eea88954",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "f16e3dba-f689-4e03-bde1-d0d8ed135f36",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "f346ddf9-f809-4bb3-b812-85b07ccbe190",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "76bc7eaf-8d0d-4a71-bf1c-dcef24a1185f",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "c67f2de8-e8da-42e9-b23f-f7973db0008b",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "7769390b-7550-4191-8c18-b70738f63f80",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "36d4e9dd-c6d0-4c72-9127-68f8f291c3a2",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "c7d350f2-365f-45e6-82b3-f431300cd986",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "9b3d65c1-c061-425f-8499-7fc88c4fb50c",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "959597fb-e083-4b01-b393-ee5bcab7489b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "f13c73a0-9bff-4e60-8c10-951748a2a9b0",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "c8c974dc-0243-4e96-ba7c-d6af0c3ba47b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "c42155b0-f3f8-4e6a-9291-5e2778eb3947",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "e4020180-2b8b-4f28-bac4-90da43f33e35",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "641f5210-f977-4402-a6f1-f91bb629473d",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "9dffb59d-905e-4ddf-9fe2-937ed378b5b6",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "c534bb1c-af5b-4284-b3df-4fb0fd2bc976",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "5c60b3f4-da7f-4dc0-8baf-5bdeb3719612",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "41aaad9b-af92-40cc-9cd0-3fc7f36de239",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "ce051280-e56c-413f-9242-1a6eaa36b126",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "48caa2f7-8b3f-4c43-a21e-8da09e090555",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "22943cf6-8687-4544-a874-7684f598c9ae",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "2ea22136-19e9-4e5b-9d93-6a4bc96ed08c",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "dc6d7618-d1fe-477d-b3d8-bb0aafdb6fb9",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "9d17c211-f1c2-4e7a-94f8-c784994ccbfa",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "06c8c1ed-a358-48f2-a9ca-455bac81aaec",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "1547320f-f361-4232-ac82-964e71e5d3c6",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "fc28a11a-1a14-47a8-8680-19dda074c333",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "f26963f9-35ac-414e-96b6-eebba2279d30",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "747ae9d0-a683-43cf-bf65-5b8b2e3d512a",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "b580a8fd-a873-4662-9f63-0b88d09b848a",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "533ac2f7-5361-4721-9b1d-50f2aae01306",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "8179ec3a-087d-4d3e-bb6d-1d20f0094e6d",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "ada397bd-a6a0-4443-86f6-578ba93d220b",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "eb2dcfdf-7f15-4ab6-874f-8ab64bec5bee",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "48da702c-689f-485c-910d-fbcdf9fe8d87",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "2a13946e-23ca-4860-b4c2-d674262db792",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "729ec3d4-3e1a-4a6b-8415-2456b91ce421",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "1700e283-2aa0-470a-9abf-160ab9a1f3db",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "9b1b1b78-056c-43df-9865-71a71b2c78bd",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "42256e3c-2771-4a4a-bfd2-6f663ccdce22",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "9e62a68b-d1c7-4cc5-8a17-7c02b0af7b08",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "c4bcefa7-2390-4aa8-88b7-fe1d7050fbd2",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "a87eb387-88e3-4ed2-bbd5-9aed53925c2a",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "e0aa5717-99bc-412f-a3a0-351abc1f466d",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "1c19f32f-c80f-4611-b600-314d1fb764e7",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "87ec0b7b-3c01-4521-9ca0-0fce10385011",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "cd35b1d6-e43e-4bea-98d1-397d55d8b7c7",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "654b8da1-4e85-4691-9d4e-f20afa44ba55",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "5af14499-e44b-410d-b5ed-5df55472b452",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "8cd62036-69cd-43e3-a2f7-2be0a97a6285",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "0ca96236-b612-4d2f-8ce3-a42d14aa9979",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "488a3ed9-7b29-40d2-9b5e-8361a513768b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "b84a9c7f-d9ec-4714-ab9d-cb0d88580206",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "d14d7fc8-a7fd-493a-af02-9f3b6030d7e9",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "2407e4f3-8271-4fd8-a856-3ea816bea08a",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "97c463b8-7fdd-4704-986e-ce8457234be9",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "b7640cb0-e082-44a5-b70b-7840c08f113e",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "321e6dc6-c131-4c68-99f8-845e51e22c7f",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "e2b0cef8-0795-433b-a5e9-5e3b8ddd6087",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "5227f676-7861-411c-85d6-f2050be5472b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "b9f005fb-5f43-4f50-9d6f-ff2dc524cc92",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "6c39daa2-3bd9-4e3d-b512-4ee20177a2a0",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "ae05ce4d-73c4-44f9-b177-605b921bbefd",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "dbf64b51-e319-459c-ba29-43f251be7abc",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "5c0b8c84-15e0-479e-9331-4fe805908c21",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "4bcf49e8-30b9-4a5e-ab3a-4895e8b9d9d6",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "68e86815-ad8d-412b-a6cb-684fd3d1f0c5",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "5127000a-918e-4cde-ac4f-323436df2663",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "2e69d91f-6f6a-458e-b00f-071979d973fa",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "57ecc07b-1000-41d7-a26a-bcac35dc2de1",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "68409fb3-451f-4d32-b183-f7f7d3b3060f",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "068f35b1-b0ba-4ca0-b111-350de55edd3b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "d835d87f-363d-4cc8-bdd4-613996a01a29",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "798216b1-6753-45c6-8809-1fbbd1a08a5b",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "ce418590-b191-4680-9cf7-0a2cece7c107",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "d4ee4185-0060-4765-bdba-0cea7f490731",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "fa190df2-f298-4392-9c62-d8169bfd5b71",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "70f67669-8a41-4ed8-9032-1c94d0e3b9e3",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "2dedd92b-8347-4f33-a263-85358d5be650",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "41cef1a8-414d-4bc7-88bf-a64f390b4dd4",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "59b0ae07-cbf1-4c51-8ab9-c5f87b21a5e7",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "4f2badf2-83aa-4b7d-aa0c-849a86cf128c",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "30b2a25f-442b-4674-9388-70d32568b38b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "461f18e9-4633-4179-9f2a-2aa2a6fc108b",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "ec2a384d-48de-441f-b74a-745a078b7ece",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "72e7b677-1ee1-40a9-b7f8-3466b0f01cd8",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "ad5256bb-10d5-458b-93c5-91ff6fc1a9db",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "dc9b0154-d0aa-4d76-b280-4e00b24b7c12",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "d7e5c83a-66bc-462f-a100-11a1adaff64a",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "26f75ba7-2210-4a24-80fc-d531f13b5508",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "77a930d4-852c-4890-8cf8-c7ad9ff1078b",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "6e117e30-9b56-4092-8674-9bde9cb80cef",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "f9cd71a8-07a7-40a6-930f-25707b551374",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "199751e1-a08d-45e0-8a46-2cd5f38fc8bb",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "38d8ed51-ed4e-410b-aebf-2f2c27bec569",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "bdba377b-9fd1-4419-9440-08a15d22fcaa",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "02fdf635-ad5b-49ab-b2c3-e19e07ef5ace",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "b40ab58a-8cb6-4d51-ab74-7bc0a0ccf8d3",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "aa95a561-d112-4bde-b226-7aff858cbcb0",
+    "Name": "NASDAQ"
+  },
+  {
+    "Id": "f55b6f5b-ef32-4ba6-aa5d-85b4e9bcb9ed",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "3dcb8787-6fc9-4872-805f-6237ede91e31",
+    "Name": "NYSE"
+  },
+  {
+    "Id": "5b39b73b-5747-43c8-96a4-535073457305",
+    "Name": "NASDAQ"
+  }
+]
